@@ -31,6 +31,11 @@ module.exports = {
   optOutStats: false,
 
   /*
+    By default the Community Heroes section is visible in the botfile server
+  */
+  hideHeroSection: false,
+
+  /*
     Where the notifications are stored.
     TODO: These should be stored in the database
    */
